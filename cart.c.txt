@@ -1,0 +1,1 @@
+void AllowPurches(){ printf("Admin je odobrio kupovinu"); }
