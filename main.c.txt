@@ -4,7 +4,7 @@ int a = 3;
 int b = 5;
 
 int c = Add(a,b);
-
+int d = Sub(a,b);
 
 
 
@@ -15,3 +15,4 @@ int c = Add(a,b);
 }
 
 int Add(int a, int b){return a+b;}
+int Sub(int a, int b){return a-b;}
